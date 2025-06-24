@@ -1,0 +1,7 @@
+name: BreakSpell
+version: '1.0-SNAPSHOT'
+main: plugin.breakspell.Main
+api-version: '1.21'
+commands:
+  chanting:
+  score:

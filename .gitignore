@@ -1,0 +1,20 @@
+# デフォルトの無視対象ファイル
+/shelf/
+/.idea/workspace.xml
+
+# 環境に依存する Maven ホームディレクトリのパス
+/mavenHomeManager.xml
+
+# 自動生成ファイル
+build/
+.gradle/
+out/
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+# OS関連
+*.DS_Store
+
+# IDE関連
+.idea/
+*.iml

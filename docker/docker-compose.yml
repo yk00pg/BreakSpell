@@ -1,0 +1,16 @@
+services:
+  db:
+    image: mysql:8.0.42
+    container_name: break_spell_db
+    environment:
+      MYSQL_ROOT_PASSWORD: ${MYSQL_ROOT_PASSWORD}
+      MYSQL_DATABASE: break_spell
+      TZ: Asia/Tokyo
+    ports:
+      - "3307:3306"
+    volumes:
+      - ./init.sql:/docker-entrypoint-initdb.d/init.sql
+      - db_data:/var/lib/mysql
+
+volumes:
+  db_data:
