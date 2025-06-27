@@ -2,8 +2,6 @@
 -- Windowsで実行する場合は文字化け防止のために、構文の末尾に 'DEFAULT CHARSET=utf8' を指定してください。
 -- 例）CREATE TABLE player_score (...) DEFAULT CHARSET=utf8;
 
-SET GLOBAL authentication_policy = 'caching_sha2_password';
-
 CREATE DATABASE IF NOT EXISTS break_spell;
 USE break_spell;
 

@@ -12,7 +12,7 @@
       <dataSource type="POOLED">
         <property name="driver" value="com.mysql.cj.jdbc.Driver"/>
         <property name="url"
-          value="jdbc:mysql://localhost:3307/break_spell?useSSL=false&amp;allowPublicKeyRetrieval=true&amp;serverTimezone=Asia/Tokyo"/>
+          value="jdbc:mysql://localhost:3307/break_spell?serverTimezone=Asia/Tokyo"/>
         <property name="username" value="root"/>
         <property name="password" value="Your_PW"/>
       </dataSource>
