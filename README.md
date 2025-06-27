@@ -29,7 +29,7 @@
 - 音響効果を加えているため、ゲーム内の音声をそのまま収録しております<br/>
   差し支えなければ音声をオンにしてご視聴いただけますと幸いです
 
-https://github.com/user-attachments/assets/062a0573-bc71-4748-a763-ac47c3ec9a7b
+https://github.com/user-attachments/assets/85456d0c-ac5c-4335-b6ec-2b89728b70e4
 
 <br/>
 
@@ -88,7 +88,7 @@ https://github.com/user-attachments/assets/062a0573-bc71-4748-a763-ac47c3ec9a7b
     | `/score normal` | ノーマルモードのスコアを高い順に5件表示する |
     | `/score hard` | ハードモードのスコアを高い順に5件表示する |
 
-https://github.com/user-attachments/assets/de627a3b-6cf2-4436-a603-106d49c35a6f
+https://github.com/user-attachments/assets/82e36cd9-e445-47aa-8a80-f7f4bd5753d0
 
 <br/>
 
