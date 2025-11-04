@@ -217,4 +217,9 @@ SHOW TABLES;
 - ご感想やコメントなどがございましたら、[Xアカウント](https://x.com/yk00pg)までご連絡いただけますと幸いです
 <br/>
 
+## Appendix
+- [開発メモ](https://befitting-mandible-2e9.notion.site/Minecraft-1f9a8c648d1a8030b5f5e0499cf6b742?source=copy_link)（アイディア出しや要件定義など）
+<br/>
+<br/>
+
 最後までお読みいただきありがとうございました。
